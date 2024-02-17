@@ -1,5 +1,5 @@
 #MUFAIZ#
-
+import tkinter as tk
 def on_click(button):
     current_text = entry.get()
     if button == "=":
